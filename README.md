@@ -11,7 +11,7 @@
 - [x] [Iteration](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration) - Learn about `for` and benchmarking.
 - [x] [Arrays and slices](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices) - Learn about arrays, slices, `len`, varargs, `range` and test coverage.
 - [x] [Structs, methods & interfaces](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces) - Learn about `struct`, methods, `interface` and table driven tests.
-- [ ] [Pointers & errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors) - Learn about pointers and errors.
+- [x] [Pointers & errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors) - Learn about pointers and errors.
 - [ ] [Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps) - Learn about storing values in the map data structure.
 - [ ] [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection) - Learn about dependency injection, how it relates to using interfaces and a primer on io.
 - [ ] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking) - Take some existing untested code and use DI with mocking to test it.
