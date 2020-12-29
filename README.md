@@ -14,7 +14,7 @@
 - [x] [Pointers & errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors) - Learn about pointers and errors.
 - [x] [Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps) - Learn about storing values in the map data structure.
 - [x] [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection) - Learn about dependency injection, how it relates to using interfaces and a primer on io.
-- [ ] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking) - Take some existing untested code and use DI with mocking to test it.
+- [x] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking) - Take some existing untested code and use DI with mocking to test it.
 - [ ] [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency) - Learn how to write concurrent code to make your software faster.
 - [ ] [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select) - Learn how to synchronise asynchronous processes elegantly.
 - [ ] [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection) - Learn about reflection
