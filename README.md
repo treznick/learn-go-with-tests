@@ -15,7 +15,7 @@
 - [x] [Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps) - Learn about storing values in the map data structure.
 - [x] [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection) - Learn about dependency injection, how it relates to using interfaces and a primer on io.
 - [x] [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking) - Take some existing untested code and use DI with mocking to test it.
-- [ ] [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency) - Learn how to write concurrent code to make your software faster.
+- [x] [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency) - Learn how to write concurrent code to make your software faster.
 - [ ] [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select) - Learn how to synchronise asynchronous processes elegantly.
 - [ ] [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection) - Learn about reflection
 - [ ] [Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync) - Learn some functionality from the sync package including `WaitGroup` and `Mutex`
