@@ -41,5 +41,3 @@ By the end of this, you should have a strong grasp as to how to iteratively writ
 - [ ] [Command line & project structure](https://quii.gitbook.io/learn-go-with-tests/build-an-application/command-line) - Support multiple applications from one code base and read input from command line.
 - [ ] [Time](https://quii.gitbook.io/learn-go-with-tests/build-an-application/time) - using the `time` package to schedule activities.
 - [ ] [WebSockets](https://quii.gitbook.io/learn-go-with-tests/build-an-application/websockets) - learn how to write and test a server that uses WebSockets.
-
-
